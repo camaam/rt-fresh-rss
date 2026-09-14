@@ -13,6 +13,9 @@ and writes an RSS feed in the flat "Title (Year)" format that Radarr's
       </item>
     </channel></rss>
 
+Only new theatrical openings are included ("Opens"/"Opened"); re-releases
+("Re-released"/"Re-releasing") are skipped.
+
 Usage:
     python3 rt_certified_fresh_feed.py [output_path]
 
@@ -39,9 +42,12 @@ HEADERS = {
     )
 }
 
-# Matches text like: "Runner Opened Sep 11, 2026" or
-# "Marketa Lazarová Re-released Sep 04, 2026" (after the score % is stripped)
-ITEM_RE = re.compile(r"^(?P<title>.+?)\s+(?:Opened|Re-released)\s+.*?(?P<year>\d{4})$")
+# Each movie tile is an <a class="js-tile-link" href="/m/...">, containing a
+# title element and a separate start-date element:
+#   <rt-text data-qa="discovery-media-list-item-title">Bad Apples</rt-text>
+#   <rt-text data-qa="discovery-media-list-item-start-date">Opens Sep 18, 2026</rt-text>
+TITLE_SELECTOR = '[data-qa="discovery-media-list-item-title"]'
+DATE_SELECTOR = '[data-qa="discovery-media-list-item-start-date"]'
 
 
 def fetch_movies():
@@ -51,21 +57,25 @@ def fetch_movies():
 
     movies = []
     seen = set()
-    for a in soup.select('a[href*="/m/"]'):
-        text = " ".join(a.get_text(" ", strip=True).split())
-        if "Opened" not in text and "Re-released" not in text:
-            continue  # skip sidebar/promo links that aren't grid items
-
-        # strip leading Tomatometer/Popcornmeter score(s), e.g. "91% 89% "
-        text = re.sub(r"^(?:\d{1,3}%\s*){1,2}", "", text)
-
-        m = ITEM_RE.match(text)
-        if not m:
+    for a in soup.select("a.js-tile-link"):
+        title_el = a.select_one(TITLE_SELECTOR)
+        date_el = a.select_one(DATE_SELECTOR)
+        if not title_el or not date_el:
             continue
 
-        title = m.group("title").strip()
-        year = m.group("year")
-        link = a["href"]
+        title = title_el.get_text(strip=True)
+        date_text = date_el.get_text(strip=True)
+
+        # Only keep new theatrical openings; skip "Re-released"/"Re-releasing"
+        if not (date_text.startswith("Opens") or date_text.startswith("Opened")):
+            continue
+
+        year_match = re.search(r"(\d{4})$", date_text)
+        if not year_match:
+            continue
+        year = year_match.group(1)
+
+        link = a.get("href", "")
         if not link.startswith("http"):
             link = "https://www.rottentomatoes.com" + link
 
