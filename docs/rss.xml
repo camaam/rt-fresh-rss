@@ -4,7 +4,7 @@
   <title>RT Certified Fresh - Newest In Theaters</title>
   <description></description>
   <link>https://www.rottentomatoes.com/browse/movies_in_theaters/critics:certified_fresh~sort:newest</link>
-  <lastBuildDate>Wed, 30 Sep 2026 12:08:49 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 22:00:00 GMT</lastBuildDate>
   <item>
     <title><![CDATA[ Primetime (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/primetime</link>
@@ -29,6 +29,11 @@
     <title><![CDATA[ Ha-Chan, Shake Your Booty! (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/ha_chan_shake_your_booty</link>
     <guid isPermaLink="false">Ha-Chan, Shake Your Booty! (2026)</guid>
+  </item>
+  <item>
+    <title><![CDATA[ Never After Dark (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/never_after_dark</link>
+    <guid isPermaLink="false">Never After Dark (2026)</guid>
   </item>
   <item>
     <title><![CDATA[ Resident Evil (2026) ]]></title>
@@ -109,11 +114,6 @@
     <title><![CDATA[ The Samurai and the Prisoner (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/the_samurai_and_the_prisoner</link>
     <guid isPermaLink="false">The Samurai and the Prisoner (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ The Odyssey (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/the_odyssey_2026</link>
-    <guid isPermaLink="false">The Odyssey (2026)</guid>
   </item>
 </channel>
 </rss>
