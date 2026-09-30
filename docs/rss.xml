@@ -4,7 +4,7 @@
   <title>RT Certified Fresh - Newest In Theaters</title>
   <description></description>
   <link>https://www.rottentomatoes.com/browse/movies_in_theaters/critics:certified_fresh~sort:newest</link>
-  <lastBuildDate>Wed, 30 Sep 2026 04:42:02 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 12:08:49 GMT</lastBuildDate>
   <item>
     <title><![CDATA[ Primetime (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/primetime</link>
@@ -71,6 +71,11 @@
     <guid isPermaLink="false">Buddy (2026)</guid>
   </item>
   <item>
+    <title><![CDATA[ Colony (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/colony</link>
+    <guid isPermaLink="false">Colony (2026)</guid>
+  </item>
+  <item>
     <title><![CDATA[ Filipiñana (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/filipinana_2026</link>
     <guid isPermaLink="false">Filipiñana (2026)</guid>
@@ -109,16 +114,6 @@
     <title><![CDATA[ The Odyssey (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/the_odyssey_2026</link>
     <guid isPermaLink="false">The Odyssey (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ Toy Story 5 (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/toy_story_5</link>
-    <guid isPermaLink="false">Toy Story 5 (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ Rose of Nevada (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/rose_of_nevada</link>
-    <guid isPermaLink="false">Rose of Nevada (2026)</guid>
   </item>
 </channel>
 </rss>
