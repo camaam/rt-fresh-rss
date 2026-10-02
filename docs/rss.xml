@@ -4,7 +4,7 @@
   <title>RT Certified Fresh - Newest In Theaters</title>
   <description></description>
   <link>https://www.rottentomatoes.com/browse/movies_in_theaters/critics:certified_fresh~sort:newest</link>
-  <lastBuildDate>Fri, 02 Oct 2026 12:07:06 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 21:57:31 GMT</lastBuildDate>
   <item>
     <title><![CDATA[ Primetime (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/primetime</link>
@@ -44,6 +44,11 @@
     <title><![CDATA[ The Weight (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/the_weight_2026</link>
     <guid isPermaLink="false">The Weight (2026)</guid>
+  </item>
+  <item>
+    <title><![CDATA[ Shaun the Sheep: The Beast of Mossy Bottom (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom</link>
+    <guid isPermaLink="false">Shaun the Sheep: The Beast of Mossy Bottom (2026)</guid>
   </item>
   <item>
     <title><![CDATA[ The History of Concrete (2026) ]]></title>
@@ -109,11 +114,6 @@
     <title><![CDATA[ Spider-Man: Brand New Day (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/spider_man_brand_new_day</link>
     <guid isPermaLink="false">Spider-Man: Brand New Day (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ The Samurai and the Prisoner (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/the_samurai_and_the_prisoner</link>
-    <guid isPermaLink="false">The Samurai and the Prisoner (2026)</guid>
   </item>
 </channel>
 </rss>
