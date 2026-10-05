@@ -4,16 +4,21 @@
   <title>RT Certified Fresh - Newest In Theaters</title>
   <description></description>
   <link>https://www.rottentomatoes.com/browse/movies_in_theaters/critics:certified_fresh~sort:newest</link>
-  <lastBuildDate>Sun, 04 Oct 2026 21:01:27 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 04:45:12 GMT</lastBuildDate>
+  <item>
+    <title><![CDATA[ Fjord (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/fjord</link>
+    <guid isPermaLink="false">Fjord (2026)</guid>
+  </item>
+  <item>
+    <title><![CDATA[ California Schemin' (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/california_schemin</link>
+    <guid isPermaLink="false">California Schemin' (2026)</guid>
+  </item>
   <item>
     <title><![CDATA[ Heart of the Beast (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/heart_of_the_beast</link>
     <guid isPermaLink="false">Heart of the Beast (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ Primetime (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/primetime</link>
-    <guid isPermaLink="false">Primetime (2026)</guid>
   </item>
   <item>
     <title><![CDATA[ Forgotten Island (2026) ]]></title>
@@ -46,14 +51,14 @@
     <guid isPermaLink="false">The Weight (2026)</guid>
   </item>
   <item>
-    <title><![CDATA[ Shaun the Sheep: The Beast of Mossy Bottom (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom</link>
-    <guid isPermaLink="false">Shaun the Sheep: The Beast of Mossy Bottom (2026)</guid>
-  </item>
-  <item>
     <title><![CDATA[ The History of Concrete (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/the_history_of_concrete</link>
     <guid isPermaLink="false">The History of Concrete (2026)</guid>
+  </item>
+  <item>
+    <title><![CDATA[ Shaun the Sheep: The Beast of Mossy Bottom (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom</link>
+    <guid isPermaLink="false">Shaun the Sheep: The Beast of Mossy Bottom (2026)</guid>
   </item>
   <item>
     <title><![CDATA[ If I Go Will They Miss Me (2026) ]]></title>
@@ -99,21 +104,6 @@
     <title><![CDATA[ The End of Oak Street (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/the_end_of_oak_street</link>
     <guid isPermaLink="false">The End of Oak Street (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ Teenage Sex and Death at Camp Miasma (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma</link>
-    <guid isPermaLink="false">Teenage Sex and Death at Camp Miasma (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ Late Fame (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/late_fame</link>
-    <guid isPermaLink="false">Late Fame (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ Spider-Man: Brand New Day (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/spider_man_brand_new_day</link>
-    <guid isPermaLink="false">Spider-Man: Brand New Day (2026)</guid>
   </item>
 </channel>
 </rss>
