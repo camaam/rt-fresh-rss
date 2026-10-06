@@ -4,7 +4,12 @@
   <title>RT Certified Fresh - Newest In Theaters</title>
   <description></description>
   <link>https://www.rottentomatoes.com/browse/movies_in_theaters/critics:certified_fresh~sort:newest</link>
-  <lastBuildDate>Tue, 06 Oct 2026 12:59:58 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 22:29:16 GMT</lastBuildDate>
+  <item>
+    <title><![CDATA[ Your Mother Your Mother Your Mother (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/your_mother_your_mother_your_mother</link>
+    <guid isPermaLink="false">Your Mother Your Mother Your Mother (2026)</guid>
+  </item>
   <item>
     <title><![CDATA[ Fjord (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/fjord</link>
@@ -14,6 +19,11 @@
     <title><![CDATA[ California Schemin' (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/california_schemin</link>
     <guid isPermaLink="false">California Schemin' (2026)</guid>
+  </item>
+  <item>
+    <title><![CDATA[ Naza (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/naza</link>
+    <guid isPermaLink="false">Naza (2026)</guid>
   </item>
   <item>
     <title><![CDATA[ Heart of the Beast (2026) ]]></title>
@@ -61,14 +71,14 @@
     <guid isPermaLink="false">Shaun the Sheep: The Beast of Mossy Bottom (2026)</guid>
   </item>
   <item>
-    <title><![CDATA[ If I Go Will They Miss Me (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/if_i_go_will_they_miss_me</link>
-    <guid isPermaLink="false">If I Go Will They Miss Me (2026)</guid>
-  </item>
-  <item>
     <title><![CDATA[ Black Zombie (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/black_zombie</link>
     <guid isPermaLink="false">Black Zombie (2026)</guid>
+  </item>
+  <item>
+    <title><![CDATA[ If I Go Will They Miss Me (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/if_i_go_will_they_miss_me</link>
+    <guid isPermaLink="false">If I Go Will They Miss Me (2026)</guid>
   </item>
   <item>
     <title><![CDATA[ Hope (2026) ]]></title>
@@ -99,11 +109,6 @@
     <title><![CDATA[ The Sun Never Sets (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/the_sun_never_sets_2026</link>
     <guid isPermaLink="false">The Sun Never Sets (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ The End of Oak Street (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/the_end_of_oak_street</link>
-    <guid isPermaLink="false">The End of Oak Street (2026)</guid>
   </item>
 </channel>
 </rss>
