@@ -4,7 +4,7 @@
   <title>RT Certified Fresh - Newest In Theaters</title>
   <description></description>
   <link>https://www.rottentomatoes.com/browse/movies_in_theaters/critics:certified_fresh~sort:newest</link>
-  <lastBuildDate>Tue, 27 Oct 2026 17:42:35 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 21:57:06 GMT</lastBuildDate>
   <item>
     <title><![CDATA[ Clayface (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/clayface</link>
@@ -81,14 +81,14 @@
     <guid isPermaLink="false">Forgotten Island (2026)</guid>
   </item>
   <item>
-    <title><![CDATA[ The Incomer (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/the_incomer</link>
-    <guid isPermaLink="false">The Incomer (2026)</guid>
-  </item>
-  <item>
     <title><![CDATA[ Never After Dark (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/never_after_dark</link>
     <guid isPermaLink="false">Never After Dark (2026)</guid>
+  </item>
+  <item>
+    <title><![CDATA[ The Incomer (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/the_incomer</link>
+    <guid isPermaLink="false">The Incomer (2026)</guid>
   </item>
   <item>
     <title><![CDATA[ Ha-Chan, Shake Your Booty! (2026) ]]></title>
@@ -124,11 +124,6 @@
     <title><![CDATA[ Spider-Man: Brand New Day (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/spider_man_brand_new_day</link>
     <guid isPermaLink="false">Spider-Man: Brand New Day (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ The Odyssey (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/the_odyssey_2026</link>
-    <guid isPermaLink="false">The Odyssey (2026)</guid>
   </item>
 </channel>
 </rss>
