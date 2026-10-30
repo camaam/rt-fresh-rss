@@ -4,7 +4,12 @@
   <title>RT Certified Fresh - Newest In Theaters</title>
   <description></description>
   <link>https://www.rottentomatoes.com/browse/movies_in_theaters/critics:certified_fresh~sort:newest</link>
-  <lastBuildDate>Thu, 29 Oct 2026 22:33:48 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 04:55:49 GMT</lastBuildDate>
+  <item>
+    <title><![CDATA[ Queen at Sea (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/queen_at_sea</link>
+    <guid isPermaLink="false">Queen at Sea (2026)</guid>
+  </item>
   <item>
     <title><![CDATA[ Clayface (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/clayface</link>
@@ -119,11 +124,6 @@
     <title><![CDATA[ Filipiñana (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/filipinana_2026</link>
     <guid isPermaLink="false">Filipiñana (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ Spider-Man: Brand New Day (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/spider_man_brand_new_day</link>
-    <guid isPermaLink="false">Spider-Man: Brand New Day (2026)</guid>
   </item>
 </channel>
 </rss>
