@@ -4,7 +4,7 @@
   <title>RT Certified Fresh - Newest In Theaters</title>
   <description></description>
   <link>https://www.rottentomatoes.com/browse/movies_in_theaters/critics:certified_fresh~sort:newest</link>
-  <lastBuildDate>Fri, 06 Nov 2026 22:51:27 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 05:13:25 GMT</lastBuildDate>
   <item>
     <title><![CDATA[ Godzilla Minus Zero (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/godzilla_minus_zero</link>
@@ -34,6 +34,11 @@
     <title><![CDATA[ Being Heumann (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/being_heumann</link>
     <guid isPermaLink="false">Being Heumann (2026)</guid>
+  </item>
+  <item>
+    <title><![CDATA[ Nuisance Bear (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/nuisance_bear</link>
+    <guid isPermaLink="false">Nuisance Bear (2026)</guid>
   </item>
   <item>
     <title><![CDATA[ The Only Living Pickpocket in New York (2026) ]]></title>
@@ -124,11 +129,6 @@
     <title><![CDATA[ Resident Evil (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/resident_evil_2026</link>
     <guid isPermaLink="false">Resident Evil (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ Black Zombie (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/black_zombie</link>
-    <guid isPermaLink="false">Black Zombie (2026)</guid>
   </item>
 </channel>
 </rss>
