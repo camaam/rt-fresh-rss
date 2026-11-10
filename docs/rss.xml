@@ -4,7 +4,7 @@
   <title>RT Certified Fresh - Newest In Theaters</title>
   <description></description>
   <link>https://www.rottentomatoes.com/browse/movies_in_theaters/critics:certified_fresh~sort:newest</link>
-  <lastBuildDate>Mon, 09 Nov 2026 15:36:19 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 01:17:53 GMT</lastBuildDate>
   <item>
     <title><![CDATA[ Paper Tiger (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/paper_tiger</link>
@@ -29,6 +29,11 @@
     <title><![CDATA[ I Play Rocky (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/i_play_rocky</link>
     <guid isPermaLink="false">I Play Rocky (2026)</guid>
+  </item>
+  <item>
+    <title><![CDATA[ Club Kid (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/club_kid</link>
+    <guid isPermaLink="false">Club Kid (2026)</guid>
   </item>
   <item>
     <title><![CDATA[ Mouse (2026) ]]></title>
@@ -124,11 +129,6 @@
     <title><![CDATA[ The Incomer (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/the_incomer</link>
     <guid isPermaLink="false">The Incomer (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ Resident Evil (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/resident_evil_2026</link>
-    <guid isPermaLink="false">Resident Evil (2026)</guid>
   </item>
 </channel>
 </rss>
