@@ -4,7 +4,7 @@
   <title>RT Certified Fresh - Newest In Theaters</title>
   <description></description>
   <link>https://www.rottentomatoes.com/browse/movies_in_theaters/critics:certified_fresh~sort:newest</link>
-  <lastBuildDate>Fri, 13 Nov 2026 14:11:50 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 23:22:21 GMT</lastBuildDate>
   <item>
     <title><![CDATA[ Paper Tiger (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/paper_tiger</link>
@@ -81,19 +81,24 @@
     <guid isPermaLink="false">Wicker (2026)</guid>
   </item>
   <item>
-    <title><![CDATA[ A Talent for Murder (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/a_talent_for_murder_2026</link>
-    <guid isPermaLink="false">A Talent for Murder (2026)</guid>
-  </item>
-  <item>
     <title><![CDATA[ Fatherland (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/fatherland_2026</link>
     <guid isPermaLink="false">Fatherland (2026)</guid>
   </item>
   <item>
+    <title><![CDATA[ A Talent for Murder (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/a_talent_for_murder_2026</link>
+    <guid isPermaLink="false">A Talent for Murder (2026)</guid>
+  </item>
+  <item>
     <title><![CDATA[ Sense and Sensibility (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/sense_and_sensibility_2026</link>
     <guid isPermaLink="false">Sense and Sensibility (2026)</guid>
+  </item>
+  <item>
+    <title><![CDATA[ Whalefall (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/whalefall</link>
+    <guid isPermaLink="false">Whalefall (2026)</guid>
   </item>
   <item>
     <title><![CDATA[ Once Upon a Time in Harlem (2026) ]]></title>
@@ -119,11 +124,6 @@
     <title><![CDATA[ NAZA (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/naza</link>
     <guid isPermaLink="false">NAZA (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ Heart of the Beast (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/heart_of_the_beast</link>
-    <guid isPermaLink="false">Heart of the Beast (2026)</guid>
   </item>
 </channel>
 </rss>
