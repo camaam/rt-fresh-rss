@@ -4,7 +4,12 @@
   <title>RT Certified Fresh - Newest In Theaters</title>
   <description></description>
   <link>https://www.rottentomatoes.com/browse/movies_in_theaters/critics:certified_fresh~sort:newest</link>
-  <lastBuildDate>Fri, 13 Nov 2026 23:22:21 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 05:33:20 GMT</lastBuildDate>
+  <item>
+    <title><![CDATA[ Victorian Psycho (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/victorian_psycho</link>
+    <guid isPermaLink="false">Victorian Psycho (2026)</guid>
+  </item>
   <item>
     <title><![CDATA[ Paper Tiger (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/paper_tiger</link>
@@ -119,11 +124,6 @@
     <title><![CDATA[ Atonement (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/atonement_2026</link>
     <guid isPermaLink="false">Atonement (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ NAZA (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/naza</link>
-    <guid isPermaLink="false">NAZA (2026)</guid>
   </item>
 </channel>
 </rss>
