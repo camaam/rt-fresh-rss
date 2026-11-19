@@ -4,7 +4,12 @@
   <title>RT Certified Fresh - Newest In Theaters</title>
   <description></description>
   <link>https://www.rottentomatoes.com/browse/movies_in_theaters/critics:certified_fresh~sort:newest</link>
-  <lastBuildDate>Wed, 18 Nov 2026 15:20:12 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 00:01:35 GMT</lastBuildDate>
+  <item>
+    <title><![CDATA[ The Hunger Games: Sunrise on the Reaping (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/the_hunger_games_sunrise_on_the_reaping</link>
+    <guid isPermaLink="false">The Hunger Games: Sunrise on the Reaping (2026)</guid>
+  </item>
   <item>
     <title><![CDATA[ I Play Rocky (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/i_play_rocky</link>
@@ -36,14 +41,14 @@
     <guid isPermaLink="false">Bitter Christmas (2026)</guid>
   </item>
   <item>
-    <title><![CDATA[ Godzilla Minus Zero (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/godzilla_minus_zero</link>
-    <guid isPermaLink="false">Godzilla Minus Zero (2026)</guid>
-  </item>
-  <item>
     <title><![CDATA[ Wild Horse Nine (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/wild_horse_nine</link>
     <guid isPermaLink="false">Wild Horse Nine (2026)</guid>
+  </item>
+  <item>
+    <title><![CDATA[ Godzilla Minus Zero (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/godzilla_minus_zero</link>
+    <guid isPermaLink="false">Godzilla Minus Zero (2026)</guid>
   </item>
   <item>
     <title><![CDATA[ Mouse (2026) ]]></title>
@@ -101,6 +106,11 @@
     <guid isPermaLink="false">Your Mother Your Mother Your Mother (2026)</guid>
   </item>
   <item>
+    <title><![CDATA[ Atonement (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/atonement_2026</link>
+    <guid isPermaLink="false">Atonement (2026)</guid>
+  </item>
+  <item>
     <title><![CDATA[ NAZA (2026) ]]></title>
     <link>https://www.rottentomatoes.com/m/naza</link>
     <guid isPermaLink="false">NAZA (2026)</guid>
@@ -111,19 +121,9 @@
     <guid isPermaLink="false">Heart of the Beast (2026)</guid>
   </item>
   <item>
-    <title><![CDATA[ Resident Evil (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/resident_evil_2026</link>
-    <guid isPermaLink="false">Resident Evil (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ The History of Concrete (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/the_history_of_concrete</link>
-    <guid isPermaLink="false">The History of Concrete (2026)</guid>
-  </item>
-  <item>
-    <title><![CDATA[ Buddy (2026) ]]></title>
-    <link>https://www.rottentomatoes.com/m/buddy_2026</link>
-    <guid isPermaLink="false">Buddy (2026)</guid>
+    <title><![CDATA[ Forgotten Island (2026) ]]></title>
+    <link>https://www.rottentomatoes.com/m/forgotten_island</link>
+    <guid isPermaLink="false">Forgotten Island (2026)</guid>
   </item>
 </channel>
 </rss>
